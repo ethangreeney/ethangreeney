@@ -9,16 +9,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
       - uses: Platane/snk@v3
         with:
-         # Your GitHub username
+          # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
 
           # The output files
-          # The first one is for light mode, the second for dark mode
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
