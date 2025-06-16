@@ -9,6 +9,6 @@ I'm a Computer Science student focused on performance and optimization. Most of 
 
 <p align="center">
   <a href="https://leetcode.com/u/Greeney/">
-    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=Greeney&theme=dark" alt="Ethan's LeetCode Stats">
+    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=Greeney&theme=dark&cache_bust=1" alt="Ethan's LeetCode Stats">
   </a>
 </p>
