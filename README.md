@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Ethan 👋
 
-<!--
-**ethangreeney/ethangreeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on performance and optimization. Most of my free time is spent tinkering with C++ and solving algorithmic puzzles.
 
-Here are some ideas to get you started:
+- **My LeetCode Repo:** [github.com/ethangreeney/Leetcode](https://github.com/ethangreeney/Leetcode)
+- **Contact:** ethan@greene.nz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://leetcode.com/Greeney/">
+    <img src="https://leetcode-stats-card.herokuapp.com/Greeney" alt="LeetCode Stats">
+  </a>
+</p>
