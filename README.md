@@ -8,7 +8,7 @@ I'm a Computer Science student focused on performance and optimization. Most of 
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/Greeney/">
-    <img src="https://leetcode-stats-card.herokuapp.com/Greeney" alt="LeetCode Stats">
+  <a href="https://leetcode.com/u/Greeney/">
+    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=Greeney&theme=dark" alt="Ethan's LeetCode Stats">
   </a>
 </p>
