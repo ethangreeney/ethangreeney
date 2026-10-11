@@ -3,19 +3,19 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tool
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/ai-analysis"><img src="assets/ai-bench.gif" alt="AI Bench: every frontier AI model plotted by intelligence, speed and cost"></a>
+      <a href="https://github.com/ethangreeney/ai-analysis"><img src="assets/ai-bench.gif" alt="AI Bench: hovering Claude Opus 5.5 on the model map shows its intelligence, wait and cost per task"></a>
       <br><b><a href="https://github.com/ethangreeney/ai-analysis">AI Bench</a></b>
       <br>Which AI model should you actually use?
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/atlas"><img src="assets/atlas.gif" alt="Atlas: a flag quiz card being answered"></a>
+      <a href="https://github.com/ethangreeney/atlas"><img src="assets/atlas.gif" alt="Atlas: a map card for the United Kingdom is revealed and graded Good"></a>
       <br><b><a href="https://github.com/ethangreeney/atlas">Atlas</a></b>
       <br>Learn every flag, capital and map.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/rev-match-gauge"><img src="assets/gauge.gif" alt="Rev-match gauge grading a downshift on the dash"></a>
+      <a href="https://github.com/ethangreeney/rev-match-gauge"><img src="assets/gauge.gif" alt="Rev-match gauge display grading a 4 to 3 downshift: GOOD, +15 rpm"></a>
       <br><b><a href="https://github.com/ethangreeney/rev-match-gauge">Rev-match gauge</a></b>
       <br>A dash gauge that grades my downshifts.
     </td>
@@ -25,20 +25,15 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tool
       <br>My Claude and Codex limits, live on my desk.
     </td>
   </tr>
-</table>
-
-**Private client work**
-
-<table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/keiser.gif" alt="Keiser New Zealand website: the A400, solutions, equipment and strength pages">
-      <br><b>Keiser New Zealand</b>
+      <img src="assets/keiser.gif" alt="Keiser New Zealand website: the A400, strength and equipment page headers">
+      <br><b>Keiser New Zealand</b> <code>Private client work</code>
       <br>A new website, showroom TV app and quote builder for Keiser’s New Zealand distributor.
     </td>
     <td width="50%" valign="top">
       <img src="assets/bidlab.jpg" alt="BidLab landing page: Win more work. Write fewer words.">
-      <br><b>BidLab</b>
+      <br><b>BidLab</b> <code>Private client work</code>
       <br>Drafts tender answers from your past work and cites every claim. My AUT capstone, built for Write Impact.
     </td>
   </tr>
