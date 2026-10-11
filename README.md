@@ -3,12 +3,12 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tool
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/ai-analysis"><img src="assets/ai-bench.gif" alt="AI Bench: hovering Claude Opus 5.5 on the model map shows its intelligence, wait and cost per task"></a>
+      <a href="https://github.com/ethangreeney/ai-analysis"><img src="assets/ai-bench.gif" alt="AI Bench: every frontier AI model plotted by intelligence, speed and cost"></a>
       <br><b><a href="https://github.com/ethangreeney/ai-analysis">AI Bench</a></b>
       <br>Which AI model should you actually use?
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/atlas"><img src="assets/atlas.gif" alt="Atlas: a map card for the United Kingdom is revealed and graded Good"></a>
+      <a href="https://github.com/ethangreeney/atlas"><img src="assets/atlas.gif" alt="Atlas: a flag quiz card being answered"></a>
       <br><b><a href="https://github.com/ethangreeney/atlas">Atlas</a></b>
       <br>Learn every flag, capital and map.
     </td>
@@ -27,7 +27,7 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tool
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/keiser.gif" alt="Keiser New Zealand website: the A400, strength and equipment page headers">
+      <img src="assets/keiser.gif" alt="Keiser New Zealand website: the A400, solutions, equipment and strength pages">
       <br><b>Keiser New Zealand</b> <code>Private client work</code>
       <br>A new website, showroom TV app and quote builder for Keiser’s New Zealand distributor.
     </td>
