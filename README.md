@@ -1,4 +1,4 @@
-I'm a software engineer at [Spotto](https://spotto.ai) in Auckland, finishing a software development degree at AUT. I build tools I actually use, mostly with AI agents.
+I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tools I actually use, mostly with AI agents.
 
 <table>
   <tr>
@@ -44,4 +44,4 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland, finishing a 
   </tr>
 </table>
 
-[LinkedIn](https://www.linkedin.com/in/ethan-greene-b094a332a) · [ethan@greene.nz](mailto:ethan@greene.nz)
+[LinkedIn](https://www.linkedin.com/in/ethan-greene-nz) · [ethan@greene.nz](mailto:ethan@greene.nz)
