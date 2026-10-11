@@ -27,4 +27,21 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland, finishing a 
   </tr>
 </table>
 
+**Private client work**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/keiser.gif" alt="Keiser New Zealand website: the A400, solutions, equipment and strength pages">
+      <br><b>Keiser New Zealand</b>
+      <br>A new website, showroom TV app and quote builder for Keiser’s New Zealand distributor.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/bidlab.jpg" alt="BidLab landing page: Win more work. Write fewer words.">
+      <br><b>BidLab</b>
+      <br>Drafts tender answers from your past work and cites every claim. My AUT capstone, built for Write Impact.
+    </td>
+  </tr>
+</table>
+
 [LinkedIn](https://www.linkedin.com/in/ethan-greene-b094a332a) · [ethan@greene.nz](mailto:ethan@greene.nz)
