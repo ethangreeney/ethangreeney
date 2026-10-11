@@ -15,7 +15,7 @@ I'm a software engineer at [Spotto](https://spotto.ai) in Auckland. I build tool
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ethangreeney/rev-match-gauge"><img src="assets/gauge.gif" alt="Rev-match gauge display grading a 4 to 3 downshift: GOOD, +15 rpm"></a>
+      <a href="https://github.com/ethangreeney/rev-match-gauge"><img src="assets/gauge.gif" alt="On the road with the rev-match gauge in hand: 30 km/h in 4th, then it grades the downshift GOOD"></a>
       <br><b><a href="https://github.com/ethangreeney/rev-match-gauge">Rev-match gauge</a></b>
       <br>A dash gauge that grades my downshifts.
     </td>
